@@ -131,7 +131,7 @@ built into certain car models.
 OPEN BETA:
 
 I advise all beta testers to keep logging to USB *activated* in the settings at all times. If possible provide all of
-the following info to me at my email:
+the following info to me at my email (or you can use [GitHub](https://github.com/MoleMan1024/audiowagon_beta/issues)):
 
 - What happened? Describe all steps that you did exactly
 - What did you expect to happen?
