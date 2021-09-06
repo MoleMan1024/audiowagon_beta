@@ -137,6 +137,7 @@ the following info to me at my email (or you can use [GitHub](https://github.com
 - What did you expect to happen?
 - At what date/time did the issue happen? (so I can align with the timestamps in the log files)
 - Which version of AudioWagon were you using? (see Settings)
+- Which version is your car's software? (e.g. P2124 on a Polestar2)
 - Log files are being created continously on your USB drive (if this is enabled in the settings). Please attach these 
 logfiles from around the date/time when this happened (also provide previous logfile). They have filenames like 
 `audiowagon_<date_and_time>.log`.
@@ -145,13 +146,12 @@ logfiles from around the date/time when this happened (also provide previous log
 
 OPEN BETA:
 
-I am looking for **beta testers** that want to try out this app and report any issues they find. If you provide me with the
-e-mail address that you use in your car for your Google Play Store as well as your country I can give you access to a 
-beta version. I am especially interested in beta testers that:
+I am looking for **beta testers** that want to try out this app and report any issues they find. If you provide me with
+the **e-mail address that you use in your car for your Google account** I can invite you to the beta version. I am
+especially interested in beta testers that:
 
-- want to try this in a Volvo XC 40 Recharge
-- own a Polestar 2 with a software version P2127 or later (the one where the audio starts playing already when you get
-  in)
+- want to try this in a Volvo XC 40 Recharge or any other vehicle with Android Automotive OS (so far I mostly have
+  Polestar 2 drivers)
 
 If you are interested, please contact me.
 
