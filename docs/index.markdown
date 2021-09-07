@@ -156,7 +156,7 @@ especially interested in beta testers that:
 If you are interested, please contact me.
 
 I am also currently looking for **volunteer native speakers to translate** the GUI texts in the app to all languages
-(except German, English, Dutch). You can get the 
+(except German, English, Dutch, Swedish). You can get the 
 [English strings to translate here](https://github.com/MoleMan1024/audiowagon_beta/blob/main/strings.xml). 
 
 
