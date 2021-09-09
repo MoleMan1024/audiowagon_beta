@@ -147,11 +147,7 @@ logfiles from around the date/time when this happened (also provide previous log
 OPEN BETA:
 
 I am looking for **beta testers** that want to try out this app and report any issues they find. If you provide me with
-the **e-mail address that you use in your car for your Google account** I can invite you to the beta version. I am
-especially interested in beta testers that:
-
-- want to try this in a Volvo XC 40 Recharge or any other vehicle with Android Automotive OS (so far I mostly have
-  Polestar 2 drivers)
+the **e-mail address that you use in your car for your Google account** I can invite you to the beta version.
 
 If you are interested, please contact me.
 
