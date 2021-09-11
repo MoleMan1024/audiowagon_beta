@@ -144,14 +144,18 @@ logfiles from around the date/time when this happened (also provide previous log
 
 ### How to contribute?
 
-OPEN BETA:
+#### Open beta
 
-I am looking for **beta testers** that want to try out this app and report any issues they find. If you provide me with
-the **e-mail address that you use in your car for your Google account** I can invite you to the beta version.
+If you provide me with the **e-mail address that you use in your car for your Google account** I can invite you to the
+beta version. If you are interested, please contact me.
 
-If you are interested, please contact me.
+**⚠️ PLEASE NOTE ⚠️**: recently (2021-09-11) I have been getting more and more reports of people who cannot see the app
+after being invited to the beta test. This issue also affects me now: when searching in PlayStore in the car,
+I can no longer find my app. I have no clue why this is happening, I have contacted Google about it.
 
-I am also currently looking for **volunteer native speakers to translate** the GUI texts in the app to all languages
+#### Native speakers
+
+I am currently looking for **volunteer native speakers to translate** the GUI texts in the app to all languages
 (except German, English, Dutch, Swedish, Norwegian). You can get the 
 [English strings to translate here](https://github.com/MoleMan1024/audiowagon_beta/blob/main/strings.xml). 
 
