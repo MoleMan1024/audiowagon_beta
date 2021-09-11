@@ -165,11 +165,14 @@ If you have further questions, please send me an e-mail at [moleman1024dev@gmail
 This app uses content from the following other creators, all licensed under 
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). Thank you so much for providing this content:
 
-- various libraries created by the [Android Open Source Project](https://source.android.com/)
 - the [libaums library](https://github.com/magnusja/libaums) created by Magnus Jahnen
-- [Material design vector icons](https://fonts.google.com/icons) created by Google™
+- various libraries created by the [Android Open Source Project](https://source.android.com/)
+- [Material design vector icons](https://fonts.google.com/icons) created by Google
+
+Also many thanks to all beta testers and translators!
 
 AudioWagon is licensed under [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
+
 
 ---
 
