@@ -153,6 +153,9 @@ beta version. If you are interested, please contact me.
 after being invited to the beta test. This issue also affects me now: when searching in PlayStore in the car,
 I can no longer find my app. I have no clue why this is happening, I have contacted Google about it.
 
+Update 2021-09-14: today another beta tester and I were able to see the app again in the PlayStore in the car. I still 
+have no clue why it disappeared, still waiting for a response from Google.
+
 #### Native speakers
 
 I am currently looking for **volunteer native speakers to translate** the GUI texts in the app to all languages
