@@ -2,7 +2,7 @@
 name: Issue report
 about: Create an issue report to help improve the app
 title: ''
-labels: ''
+labels: bug
 assignees: MoleMan1024
 
 ---
