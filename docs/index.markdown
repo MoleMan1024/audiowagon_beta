@@ -154,7 +154,10 @@ after being invited to the beta test. This issue also affects me now: when searc
 I can no longer find my app. I have no clue why this is happening, I have contacted Google about it.
 
 Update 2021-09-14: today another beta tester and I were able to see the app again in the PlayStore in the car. I still 
-have no clue why it disappeared, still waiting for a response from Google.
+have no clue why it disappeared, still waiting for a response from Google. I want to wait on that before I add
+more people to the beta test, it will be frustrating to new beta testers if the issue happens again and they can't
+install the app.
+
 
 #### Native speakers
 
