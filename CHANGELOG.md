@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - do not store USB status in settings persistently
 - try to improve recovery of app after issues with USB drive
   [#6](https://github.com/MoleMan1024/audiowagon_beta/issues/6)
+- added more exception handling
 - more logging, removed obfuscation from stack traces
 
 ### Fixed
@@ -29,6 +30,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   work fine with up to approx. 150000 tracks [#7](https://github.com/MoleMan1024/audiowagon_beta/issues/7)
 - notify user if USB drive is full but logging to file on USB drive is enabled
   [#8](https://github.com/MoleMan1024/audiowagon_beta/issues/8)
+- fix issues with files that contain a percent sign in the filename 
+  [#12](https://github.com/MoleMan1024/audiowagon_beta/issues/12)
+- avoid issue where USB filesystem is corrupted when more than 128 files are put in root directory. Users are notified
+  about this and asked to add subdirectories on their USB drive. A real fix will require a change in libaums. 
+  [#14](https://github.com/MoleMan1024/audiowagon_beta/issues/14)
+- avoid issue where indexing slows down on files which are not supported. Previously the app tried to index .wma files
+  as well which caused a 5 second delay on each of those files, as .wma is not supported. Such files are now ignored
+  [#15](https://github.com/MoleMan1024/audiowagon_beta/issues/15)
 
 
 ## [0.2.5] - 2021-09-03
