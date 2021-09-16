@@ -23,6 +23,9 @@ Steps to reproduce the problematic behavior:
 **AudioWagon version**
 <Which version of AudioWagon were you using? (see the settings screen)>
 
+**Car version**
+<Which software version are you running in your car? (e.g. P2127 for Polestar 2)>
+
 **Logfiles**
 <Log files are being created continously on your USB drive (if this is enabled in the settings). Please attach these logfiles from around the date/time when this happened (also provide previous logfile). They have filenames like `audiowagon_<date_and_time>.log`.>
 
