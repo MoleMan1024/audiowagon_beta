@@ -56,7 +56,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 	for example when a navigation route guidance is being read out or when a phone call is ongoing. -->
 	<string name="toast_error_audio_focus_denied">Could not get audio focus</string>
 	<string name="toast_error_USB_init">Error in connection to USB drive</string>
-	<string name="toast_error_no_filesystem">No (supported) filesystem</string>
+	<string name="toast_error_no_filesystem">No supported filesystem</string>
 	<string name="toast_error_library_creation_fail">Library creation failed</string>
 	<!-- "state" refers to the state the software is in -->
 	<string name="toast_error_invalid_state">Invalid state</string>
@@ -148,4 +148,8 @@ Project\n&#x2013; the libaums library created by Magnus Jahnen\n&#x2013; Materia
 	</string>
 	<string name="legal_disclaimer_confirm_btn">Agree</string>
 	<string name="legal_disclaimer_cancel_btn">Cancel</string>
+	<string name="toast_error_no_tracks">No tracks</string>
+	<string name="toast_error_not_enough_space_for_log">Not enough space to write log file</string>
+	<string name="setting_USB_status_too_many_files_in_root">Too many files in top-most directory, please use
+subdirectories</string>
 </resources>

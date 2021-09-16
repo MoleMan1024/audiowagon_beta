@@ -158,6 +158,11 @@ have no clue why it disappeared, still waiting for a response from Google. I wan
 more people to the beta test, it will be frustrating to new beta testers if the issue happens again and they can't
 install the app.
 
+Update 2021-09-16: Google replied, but unfortunately it was not very helpful, I think I have not yet gone beyond the
+first support tier&hellip; Good news is that a few more people have reported now they can see the app again, so it might
+have been a temporary indexing problem with Google servers only. Also I am thinking about switching to
+actual open beta (i.e. no invites required) and releasing a new version soon (maybe this weekend).
+
 
 #### Native speakers
 

@@ -36,7 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   about this and asked to add subdirectories on their USB drive. A real fix will require a change in libaums. 
   [#14](https://github.com/MoleMan1024/audiowagon_beta/issues/14)
 - avoid issue where indexing slows down on files which are not supported. Previously the app tried to index .wma files
-  as well which caused a 5 second delay on each of those files, as .wma is not supported. Such files are now ignored
+  as well which caused a 5 second delay on each of those files as .wma is not supported. Such files are now ignored
   [#15](https://github.com/MoleMan1024/audiowagon_beta/issues/15)
 
 
