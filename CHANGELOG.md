@@ -38,6 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - avoid issue where indexing slows down on files which are not supported. Previously the app tried to index .wma files
   as well which caused a 5 second delay on each of those files as .wma is not supported. Such files are now ignored
   [#15](https://github.com/MoleMan1024/audiowagon_beta/issues/15)
+- for cars like Polestar 2 version P2127 or higher when entering the car the audio will resume playing if it was playing
+  previously. This should now also work with AudioWagon [#16](https://github.com/MoleMan1024/audiowagon_beta/issues/16)
 
 
 ## [0.2.5] - 2021-09-03
