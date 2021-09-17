@@ -110,7 +110,7 @@ on your USB drive might be damaged.
 
 ### Does the app support voice input?
 
-Partially. The following utterances work with Google Assistant:
+Partially. The following utterances work with Google Assistant (at least in English):
 
 - "Play"
 - "Pause"

@@ -1,6 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. 
+
+Listed here are only software version that have been made public. A jump in the version number (e.g. from 0.2.5 to 
+0.3.4) without any inbetween version means that multiple internal releases were made that were not made available to the 
+public. This is required for in-car-testing due to the way the Google Play Store works.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
